@@ -1,4 +1,4 @@
-# Use the official Node.js image as the base images
+# Use the official Node.js image as the base image
 FROM node:18-alpine
 
 
